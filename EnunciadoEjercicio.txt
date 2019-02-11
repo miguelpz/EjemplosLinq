@@ -1,0 +1,10 @@
+Crear las colecciones con los datos.
+ver cuales son los comentarios que hay para un post determinado.
+ver cuales son los albums que hay y la cantidad de fotos que contiene cada uno de ellos
+ver cuales son los nombres de los usuarios ordenados descendentemente.
+Tomar los cinco albums donde más fotos existan.
+Ver que cantidad de comentarios totales ha recibido un usuario.
+Mostrar el usuario que más comentarios ha recibido.
+Mostrar para cada usuario cuantas tareas tiene terminada y cuales no.
+Mostrar cual es el usuario que más tareas tiene por finalizar.
+Mostrar todas las urls de las imagenes del usuario que más fotos ha subido.
